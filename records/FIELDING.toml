@@ -1,0 +1,7 @@
+author = "Roy Thomas Fielding"
+memo = "PhD dissertation about REST architectural style, UC IRVINE"
+
+[[witnesses]]
+type = "text"
+url = "https://ics.uci.edu/~fielding/pubs/dissertation/fielding_dissertation.pdf"
+edition = "2000"
