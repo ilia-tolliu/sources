@@ -1,0 +1,17 @@
+authors = [
+  "Dewayne E. Perry", 
+  "Alexander L. Wolf"
+]
+memo = "Article that introduces the concept of Architectural Style"
+
+[[witnesses]]
+type = "text"
+url = "https://dl.acm.org/doi/pdf/10.1145/141874.141884?download=true"
+edition = "ACM SIGSOFT Software Engineering Notes, vol 17, no 4, pp 40-52, 1992"
+note = "original"
+
+[[witnesses]]
+type = "text"
+url = "https://www.ics.uci.edu/~andre/informatics223s2017/perrywolf.pdf"
+edition = "ACM SIGSOFT Software Engineering Notes, vol 17, no 4, pp 40-52, 1992"
+note = "free mirror"
