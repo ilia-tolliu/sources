@@ -1,0 +1,10 @@
+author = "Greg Young"
+memo = """
+'The Bizarre Mating Ritual Of The Whipnose Seadevil' talk.
+Greg Young explores the complexities of managing time, event ordering,
+and consistency in distributed event-sourced systems"""
+
+[[witnesses]]
+type = "video"
+url = "https://youtu.be/gpam7RGPFk8"
+edition = "J On The Beach 2019"
